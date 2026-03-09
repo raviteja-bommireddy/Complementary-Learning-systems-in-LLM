@@ -71,6 +71,8 @@ Complementary learning systems theory says hippocampus rapidly stores new episod
 
 ![Complementary Learning Systems in LLMs as a architecture](workflow.png)
 
+This architecture is an initial concept to be developed further. For detailed examples and progress, view this [link](https://github.com/RavitejaBommireddy/Complementary-Learning-Systems-in-LLMs)
+
 ## Phase 1 : Unification
 
 ### Reasoning-guided retrieval (RGR)
