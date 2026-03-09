@@ -69,7 +69,7 @@ Complementary learning systems theory says hippocampus rapidly stores new episod
 > Current LLMs throw away users’ hard-won reasoning trajectories; capturing and consolidating those trajectories would turn each successful human–AI interaction into reusable reasoning skill for future tasks. In this way we can make LLMs learn from humans cognitive reasoning strategies, towards a specific answer. 
 
 
-![Complementary Learning Systems in LLMs as a architecture](image.png)
+![Complementary Learning Systems in LLMs as a architecture](workflow.png)
 
 ## Phase 1 : Unification
 
